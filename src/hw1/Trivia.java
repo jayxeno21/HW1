@@ -6,34 +6,47 @@ public class Trivia {
 
 		// TODO: Declare an int variable called `lateDays`;
 		// TODO: Set `lateDays` to the correct number based on the syllabus
-
+		int laterDays;
+		laterDays = 3;
 		// TODO: uncomment this line to see if lateDays prints correctly
+		System.out.println("the number of free late days you get throughout the semster is " + laterDays);
 		// System.out.println("The number of free late days you get throughout the
 		// semester is " + lateDays);
 
 		// TODO: Declare a String variable called `woodsEmail`;
+		int woodsEmail;
 		// TODO: Set `woodsEmail` to Mr. Woods' email address in the syllabus
+		Object arcadia;
+		woodsEmail = woodsjarcadia.edu;
 
 		// TODO: uncomment this line to see if woodsEmail prints correctly
+		System.out.println("I can always reach my istructor at " + woodsEmail);
 		// System.out.println("I can always reach my instructor at " + woodsEmail);
 
 		double celcius;
 		celcius = 15.0;
 
 		// TODO: Declare a double variable called `fahrenheit`.
+		double fahrenheit;
 		// TODO: Write an expression that calculates the correct fahrenheit temperature
 		// from `celsius`
 		// Note you should NOT calculate the conversion on your own and put the number
 		// in. Make the code do the work.
 
 		// TODO: uncomment this line to see if temperature variables prints correctly
+		System.out.println(celcius + " degrees celcius is " + fahrenheit + "degrees fahrenheit.");
 		// System.out.println(celcius + " degrees celcius is " + fahrenheit + " degrees
 		// fahrenheit.");
 
 		// TODO: declare an int variable called `a` and an int variable called `b`
+		int a;
+		int b;
 		// TODO: set `a` to 100 and set `b` to a multiplied by 3, using an expression
-
+		a = 100;
+		b = 3;
+		int prod = a * b;
 		// TODO: uncomment the following lines and edit the print statements so that
+		System.out.println(a + " * " + b + " = " + prod);
 		// if a is less than b, "a is smaller" prints out
 		// and if b is less than or equal to a, "b is smaller" prints out
 
